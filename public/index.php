@@ -4,7 +4,7 @@
 
 
 <div class="jumbotron text-center" name="homepagejumbotron">
-<h1>Online Zaubertrankfachhandel</h1>
+<h1>Lorem ipsum Zaubertrankfachhandel</h1>
 </div>
     <div class="container">
 
