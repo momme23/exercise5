@@ -4,7 +4,7 @@
 
 
 <div class="jumbotron text-center" name="homepagejumbotron">
-<h1>Zosimos Zaubertrankfachhandel</h1>
+<h1>Online Zaubertrankfachhandel</h1>
 </div>
     <div class="container">
 
@@ -21,9 +21,9 @@
 
                 <?php get_articles(); ?> <!-- führt die get articles funktion aus der functions.php aus-->
 
-                    
 
-                </div> 
+
+                </div>
 
             </div>
 
@@ -32,4 +32,3 @@
     </div>
 
     <?php include(TEMPLATE_FRONT . DS . "footer.php") ?>
-
