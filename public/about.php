@@ -8,7 +8,7 @@
 <div class="jumbotron">
     <div class="container">
         <div class="row text-center">
-            <h1>Über uns</h1>
+            <h1>Unsere Geschichte</h1>
             <br>
             <hr>
             <br>
